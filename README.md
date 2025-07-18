@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tariqali2002
 - 👀 I’m interested in ...python devloper
 - 🌱 I’m currently learning ... Data Analytics
-- 💞️ I’m looking to collaborate on ... Any tech Orgnization
+- 💞️ I’m Searching Job ... Any tech Orgnization
 - 📫 How to reach me ... @ta5877286@gmail.com
 
 <!
