@@ -10,14 +10,14 @@
 
 ---
 
-### 💻 1. About Me
-* 🌱 Passionate about automation, cloud infrastructure, and AI-driven applications, with a strong focus on improving efficiency and user experiences.
-* 🎓 B.Tech in Computer Engineering from **Khwaja Moinuddin Chishti Language University** (2021–2025).
-* 🚀 Building robust solutions across web development, cloud services, and emerging technologies.
+### 1. About Me
+* Passionate about automation, cloud infrastructure, and AI-driven applications, with a strong focus on improving efficiency and user experiences.
+* B.Tech in Computer Engineering from **Khwaja Moinuddin Chishti Language University** (2021–2025).
+* Building robust solutions across web development, cloud services, and emerging technologies.
 
 ---
 
-### 🛠️ 2. Skills & Tech Stack
+### 2. Skills & Tech Stack
 
 | Category | Technologies & Frameworks |
 | :--- | :--- |
@@ -27,16 +27,16 @@
 
 ---
 
-### 🏆 3. Verified Professional Experience & Training
-* 💼 **Anudip Foundation**: Advanced Frontend Development Trainee (Sep 2025 – Jan 2026).
-* 🛠️ **DOSS**: Technical Support Intern handling troubleshooting, documentation, and user assistance (Sep 2024 – Feb 2025).
-* ⚡ **Samsung Innovation Campus**: Apprenticeship program participant (Aug – Sep 2024).
-* 🚀 **Dhex**: Technical Trainee (Dec 2023 – Jul 2024).
-* 🔒 **VaultofCodes**: Internship Trainee (Sep – Oct 2024).
+### 3. Verified Professional Experience & Training
+* **Anudip Foundation**: Advanced Frontend Development Trainee (Sep 2025 – Jan 2026).
+* **DOSS**: Technical Support Intern handling troubleshooting, documentation, and user assistance (Sep 2024 – Feb 2025).
+* **Samsung Innovation Campus**: Apprenticeship program participant (Aug – Sep 2024).
+* **Dhex**: Technical Trainee (Dec 2023 – Jul 2024).
+* **VaultofCodes**: Internship Trainee (Sep – Oct 2024).
 
 ---
 
-### 📊 4. GitHub Contribution Heatmap & Statistics
+### 4. GitHub Contribution Heatmap & Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Tariqali2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D111C&title_color=FCEAE7&icon_color=075C3C" alt="Tariq's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tariqali2002&theme=tokyonight&hide_border=true&background=0D111C&ring=075C3C&fire=5D1212&currStreakNum=FCEAE7" alt="GitHub Streak" width="48%" />
