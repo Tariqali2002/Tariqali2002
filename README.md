@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12,35&height=220&section=header&text=Tariq%20Ali&fontSize=50&fontColor=FCEAE7&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Flutter,%20React,%20&%20.NET%20Enterprise%20Solutions&descSize=16&descColor=FCEAE7" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5D1212&height=220&section=header&text=Tariq%20Ali&fontSize=50&fontColor=FCEAE7&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Flutter,%20React,%20&%20.NET%20Enterprise%20Solutions&descSize=16&descColor=FCEAE7" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tariqali2002&color=5D1212&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-049F67?style=flat-square&logo=appveyor" alt="Status" />
   <img src="https://img.shields.io/badge/Based%20in-Lucknow%2C%20India-5D1212?style=flat-square&logo=googlemaps" alt="Location" />
   <img src="https://img.shields.io/badge/Core-Flutter%20%E2%80%A2%20React%20%E2%80%A2%20.NET-075C3C?style=flat-square" alt="Stack" />
@@ -12,9 +11,9 @@
 ---
 
 ### 💻 About Me
-* 🌱 I'm currently working as a **Software Developer** specializing in cross-platform **Flutter mobile apps**, **React web dashboards**, and **.NET 8 / MSSQL** backends.
-* 🚀 Overseeing business operations and technical deliverables across regional hubs with corporate presence in **Indira Nagar, Lucknow**.
-* ⚡ Passionate about building robust enterprise solutions, automated messaging workflows, and secure role-based administrative portals.
+* 🌱 I'm currently working as a **Software Developer** specializing in cross-platform **Flutter mobile apps**, **React web dashboards**, and **.NET 8 / MSSQL** backends[cite: 6].
+* 🚀 Overseeing business operations and technical deliverables across regional hubs with corporate presence in **Indira Nagar, Lucknow**[cite: 6].
+* ⚡ Passionate about building robust enterprise solutions, automated messaging workflows, and secure role-based administrative portals[cite: 6].
 
 ---
 
@@ -56,7 +55,3 @@
     <img src="https://img.shields.io/badge/Portfolio-5D1212?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12,35&height=100&section=footer" width="100%" />
-</div>
