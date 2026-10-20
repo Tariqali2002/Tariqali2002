@@ -1,47 +1,62 @@
-<h1 align="center">Hi 👋, I'm Tariq Ali</h1>
-<h3 align="center">Software Developer specializing in Flutter, React, & .NET Enterprise Solutions</h3>
-
-<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12,35&height=220&section=header&text=Tariq%20Ali&fontSize=50&fontColor=FCEAE7&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Flutter,%20React,%20&%20.NET%20Enterprise%20Solutions&descSize=16&descColor=FCEAE7" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tariqali2002&color=5D1212&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Tariqali2002&color=5D1212&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-049F67?style=flat-square&logo=appveyor" alt="Status" />
   <img src="https://img.shields.io/badge/Based%20in-Lucknow%2C%20India-5D1212?style=flat-square&logo=googlemaps" alt="Location" />
+  <img src="https://img.shields.io/badge/Core-Flutter%20%E2%80%A2%20React%20%E2%80%A2%20.NET-075C3C?style=flat-square" alt="Stack" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 💻 About Me
 * 🌱 I'm currently working as a **Software Developer** specializing in cross-platform **Flutter mobile apps**, **React web dashboards**, and **.NET 8 / MSSQL** backends.
-* 🔭 Passionate about building robust enterprise solutions, automated telecalling workflows, and AI-powered platforms.
-* ⚡ Fun fact: I have 10 years of software development experience across front-end, mobile, and back-end technology stacks.
+* 🚀 Overseeing business operations and technical deliverables across regional hubs with corporate presence in **Indira Nagar, Lucknow**.
+* ⚡ Passionate about building robust enterprise solutions, automated messaging workflows, and secure role-based administrative portals.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+### 🛠️ Technical Expertise & Tech Stack
+
+| Category | Technologies & Frameworks |
+| :--- | :--- |
+| **Mobile & Frontend** | `Flutter`, `Dart`, `React`, `JavaScript`, `TypeScript`, `Tailwind CSS`, `HTML5`, `CSS3` |
+| **Backend & Database** | `.NET 8 Web API`, `C#`, `MS SQL Server (MSSQL)`, `Firebase`, `REST APIs` |
+| **Cloud & DevOps** | `AWS Cloud`, `Docker`, `Python`, `Git`, `GitHub`, `Vercel` |
+| **Architecture & Tools** | `Glassmorphic UI/UX`, `Framer Motion`, `AES-256 Encryption`, `WhatsApp Cloud API` |
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 Featured Projects & Production Deliverables
+* 📱 **Oakbiew Smart CRM & Mobile APK**: Full-lifecycle mobile application engineered and packaged as a production Android APK with secure API key authentication and real-time sync.
+* 🌐 **AI Astrology Platform MVP**: Scalable backend architecture utilizing Swiss Ephemeris calculations, Claude/OpenAI LLM personas, and Razorpay wallet integration.
+* ⚡ **Clinic & Spa Inventory Management Portal**: Dynamic web dashboard built with Tailwind CSS, animated gradients, and automated client messaging integration.
+
+---
+
+### 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tariqali2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D111C" alt="Tariq's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tariqali2002&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D111C&title_color=FCEAE7&icon_color=075C3C" alt="Tariq's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tariqali2002&theme=tokyonight&hide_border=true&background=0D111C&ring=075C3C&fire=5D1212&currStreakNum=FCEAE7" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
-* 💼 **LinkedIn:** [Tariq Ali](https://in.linkedin.com/in/tariq-a-0b501723a)
-* 📧 **Email:** ta5877286@gmail.com
-* 🌐 **Portfolio:** [tariq-ali-portfolio.vercel.com](https://tariq-ali-portfolio.vercel.com)
+<p align="center">
+  <a href="https://in.linkedin.com/in/tariq-a-0b501723a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ta5877286@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://tariq-ali-portfolio.vercel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-5D1212?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,12,35&height=100&section=footer" width="100%" />
+</div>
