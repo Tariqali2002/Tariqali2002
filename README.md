@@ -30,7 +30,6 @@
 
 ### 🏆 Featured Projects & Production Deliverables
 * 📱 **Oakbiew Smart CRM & Mobile APK**: Full-lifecycle mobile application engineered and packaged as a production Android APK with secure API key authentication and real-time sync.
-* 🌐 **AI Astrology Platform MVP**: Scalable backend architecture utilizing Swiss Ephemeris calculations, Claude/OpenAI LLM personas, and Razorpay wallet integration.
 * ⚡ **Clinic & Spa Inventory Management Portal**: Dynamic web dashboard built with Tailwind CSS, animated gradients, and automated client messaging integration.
 
 ---
