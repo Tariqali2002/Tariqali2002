@@ -11,9 +11,9 @@
 ---
 
 ### 💻 1. About Me
-* 🌱 Passionate about automation, cloud infrastructure, and AI-driven applications, with a strong focus on improving efficiency and user experiences[cite: 5].
+* 🌱 Passionate about automation, cloud infrastructure, and AI-driven applications, with a strong focus on improving efficiency and user experiences.
 * 🎓 B.Tech in Computer Engineering from **Khwaja Moinuddin Chishti Language University** (2021–2025).
-* 🚀 Experienced through internships and training roles including **Anudip Foundation**, **DOSS**, **VaultofCodes**, **Samsung Innovation Campus**, and **Dhex**[cite: 5].
+* 🚀 Experienced through internships and training roles including **Anudip Foundation**, **DOSS**, **VaultofCodes**, **Samsung Innovation Campus**, and **Dhex**.
 
 ---
 
@@ -21,17 +21,17 @@
 
 | Category | Technologies & Frameworks |
 | :--- | :--- |
-| **Frontend & Web** | `HTML5`, `CSS3`, `JavaScript`, `Responsive Web Design`, `Web Technologies`[cite: 5] |
-| **Cloud & AI/ML** | `AWS Cloud`, `Python`, `GenAI`, `Data Analysis`, `Automation`[cite: 5] |
-| **Experience & Training** | `Anudip Foundation`, `DOSS Support`, `Samsung Innovation Campus`, `Dhex`, `VaultofCodes`[cite: 5] |
+| **Frontend & Web** | `HTML5`, `CSS3`, `JavaScript`, `Responsive Web Design`, `Web Technologies` |
+| **Cloud & AI/ML** | `AWS Cloud`, `Python`, `GenAI`, `Data Analysis`, `Automation` |
+| **Experience & Training** | `Anudip Foundation`, `DOSS Support`, `Samsung Innovation Campus`, `Dhex`, `VaultofCodes` |
 
 ---
 
 ### 🏆 3. Verified Experience & Certifications
-* 💼 **Anudip Foundation**: Advanced Frontend Development Trainee (Sep 2025 – Jan 2026)[cite: 5].
-* 🛠️ **DOSS**: Technical Support Intern providing troubleshooting, documentation, and user assistance (Sep 2024 – Feb 2025)[cite: 5].
+* 💼 **Anudip Foundation**: Advanced Frontend Development Trainee (Sep 2025 – Jan 2026).
+* 🛠️ **DOSS**: Technical Support Intern providing troubleshooting, documentation, and user assistance (Sep 2024 – Feb 2025).
 * ⚡ **Samsung Innovation Campus**: Apprenticeship program participant (Aug – Sep 2024).
-* 🚀 **Dhex & VaultofCodes**: Technical Trainee and Internship Trainee roles completed (2023–2024)[cite: 5].
+* 🚀 **Dhex & VaultofCodes**: Technical Trainee and Internship Trainee roles completed (2023–2024).
 
 ---
 
